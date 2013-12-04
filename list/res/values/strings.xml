@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">list</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    
+    <string-array name="titles">
+       <item >Sort by Name</item>
+       <item >Sort by Age</item> 
+    </string-array>
+    
+    
+
+</resources>

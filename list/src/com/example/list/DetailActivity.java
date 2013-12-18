@@ -36,6 +36,10 @@ public class DetailActivity extends Activity {
 			
 		}
 		
+		Intent data = new Intent();
+		setResult(RESULT_OK, data);
+		finish();
+		
 		
 	}
 
